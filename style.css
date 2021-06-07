@@ -58,7 +58,7 @@ a:hover {
 
 .list-inline {
   list-style: none;
-  padding: 0;
+  padding: 100;
 }
 
 .list-inline li {
